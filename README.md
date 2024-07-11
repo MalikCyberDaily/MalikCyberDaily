@@ -4,6 +4,7 @@
 
 - <b>Cloud Cyber Homelab Red/Blue Team</b>
   - [Cloud Cyber HomeLab Red/Blue Team](https://github.com/MalikCyberDaily/CyberHomeLab/tree/main)
+  - [Azure Honeynet SOC Lab] (https://github.com/MalikCyberDaily/Azure-Honeynet-SOC)
 
 
 <h2> 🤳 Connect with me:</h2>
