@@ -5,6 +5,7 @@
 - <b>Cloud Cyber Homelab Red/Blue Team</b>
   - [Azure Honeynet SOC Lab](https://github.com/MalikCyberDaily/Azure-Honeynet-SOC)
   - [AWS Cloud Cyber HomeLab Red/Blue Team](https://github.com/MalikCyberDaily/CyberHomeLab/tree/main)
+  - [Creating Azure Honeypot](https://github.com/MalikCyberDaily/Creating-Azure-Honeypot/tree/main)
 
 
 
